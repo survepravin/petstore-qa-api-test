@@ -8,7 +8,7 @@ This automation framework is using *Selenium Webdriver* tool with *Cucumber* and
 1. `git clone https://github.com/survepravin/petstore-qa-api-test.git`
 2. `cd petstore-qa-api-test`
 3. `mvn install -DskipTests`
-4. `mvn test -Dheadless=on` or `mvn test` (will take values from config.properties)
+4. `mvn test`
 
 ##### Follow commands to run tests from eclipse or intelliJ
 1. `git clone https://github.com/survepravin/petstore-qa-api-test.git`
